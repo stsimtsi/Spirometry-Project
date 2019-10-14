@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirometry Project.CSharp.Plugins", "Spirometry Project.CSharp.Plugins.csproj", "{555B3705-12BE-CA40-544C-AD81C63B6709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirometry Project.CSharp", "Spirometry Project.CSharp.csproj", "{91E34D82-8CD1-B76A-F0FA-BE47C7E9D92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirometry Project.CSharp.Editor.Plugins", "Spirometry Project.CSharp.Editor.Plugins.csproj", "{1F7BBA9C-59A9-D742-B90C-9BD0BCFBF118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirometry Project.CSharp.Editor", "Spirometry Project.CSharp.Editor.csproj", "{7B2BA9A8-677F-169C-8B64-2E76836A9B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555B3705-12BE-CA40-544C-AD81C63B6709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555B3705-12BE-CA40-544C-AD81C63B6709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555B3705-12BE-CA40-544C-AD81C63B6709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555B3705-12BE-CA40-544C-AD81C63B6709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E34D82-8CD1-B76A-F0FA-BE47C7E9D92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E34D82-8CD1-B76A-F0FA-BE47C7E9D92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E34D82-8CD1-B76A-F0FA-BE47C7E9D92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E34D82-8CD1-B76A-F0FA-BE47C7E9D92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7BBA9C-59A9-D742-B90C-9BD0BCFBF118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7BBA9C-59A9-D742-B90C-9BD0BCFBF118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7BBA9C-59A9-D742-B90C-9BD0BCFBF118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7BBA9C-59A9-D742-B90C-9BD0BCFBF118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2BA9A8-677F-169C-8B64-2E76836A9B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2BA9A8-677F-169C-8B64-2E76836A9B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2BA9A8-677F-169C-8B64-2E76836A9B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2BA9A8-677F-169C-8B64-2E76836A9B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
